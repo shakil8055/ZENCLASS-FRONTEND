@@ -94,9 +94,7 @@ const Login = () => {
                                     Not Register? Sign up
                                 </Link>
                             </div>
-                            <Link className='forgot' data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                Demo Credentials
-                            </Link>
+                            
                         </div>
                     </div>
                 </div>

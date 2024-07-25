@@ -59,35 +59,10 @@ function App() {
            <>
               <Route path='/' element={<Roadmap />} />
               <Route path='/class' element={<Roadmap />} />
-              <Route path='/dashboard' element={<Dashboard />} />
               <Route path='/task' element={<Tasks />} />
-              <Route path='/requirements' element={<Requirements />} />
-              <Route path='/application' element={<Application />} />
-              <Route path='/interviewtasks' element={<Interview />} />
-              <Route path='/mock' element={<Mockinterview />} />
-              <Route path='/certificate' element={<Certificate />} />
-              <Route path='/syllabus' element={<Syllabus />} />
-              <Route path='/learderboard' element={<Leaderboard />} />
-              <Route path='/portfolio' element={<Portfolio />} />
-              <Route path='/webcode' element={<Webcode />} />
-              <Route path='/capstone' element={<Capstone />} />
-              <Route path='/queries' element={<Queries />} />
-              <Route path='/leave' element={<Leave />} />
               <Route path='/profile' element={<Profile />} />
-           
-
-          
           </>
         }
-
-
-
-
-
-
-
-
-
       </Routes>
     </>
   )

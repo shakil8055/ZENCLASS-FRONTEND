@@ -12,8 +12,7 @@ import Reset from './pages/reset/Reset';
 import LoggedOut from './pages/loggedout/LoggedOut';
 import Roadmap from './pages/Roadmap/Roadmap';
 import Tasks from './pages/Task/Tasks';
-
-
+import ConfirmUser from './pages/confirmuser/ConfirmUser';
 import DataContext from './context/DataContext';
 import Profile from './components/profile/Profile';
 import { ToastContainer } from 'react-toastify';

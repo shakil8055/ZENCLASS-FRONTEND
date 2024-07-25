@@ -1,5 +1,5 @@
 # ZENCLASS-FRONTEND
-Site url :- https://sha-zenclass-copy.netlify.app/
+
 
 **steps to Register**
 

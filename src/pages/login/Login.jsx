@@ -32,6 +32,7 @@ const Login = () => {
                             alt='..'
                             className='logo'
                         />
+                        
                     </div>
                     <div className='row'>
                         <div className='col-md-12 d-flex flex-column justify-content-center align-items-center'>

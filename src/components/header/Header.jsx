@@ -24,8 +24,7 @@ const Header = () =>{
             <div className="d-flex align-items-center justify-content-center dropdown">
                 <span className="dropdown" type="button" data-bs-toggle="dropdown">
                     <div className='user__logo d-flex align-items-center justify-content-center'>
-                    {/* {loggedUser.firstname.toUpperCase()[0]}
-                    {loggedUser.lastname.toUpperCase()[0]} */}
+                  
                     <img src={userlogo} className='user__logo d-flex align-items-center justify-content-center' />
                     </div>
                 </span>

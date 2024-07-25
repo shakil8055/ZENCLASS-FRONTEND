@@ -1,12 +1,13 @@
+# ZENCLASS-FRONTEND
+Site url :- https://sha-zenclass-copy.netlify.app/
 
-
-# steps to Register
+**steps to Register**
 
 1) Click Sign-up
 2) Create an Account using Your Email.
 3) Then Login with your Email & Password.
 
-# steps to forgot password
+**steps to forgot password**
 
 1) Click Forgot Password.
 2) Enter Registered Email and generate reset link.
